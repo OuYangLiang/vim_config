@@ -63,4 +63,6 @@ set hlsearch               " Keep matches highlighted.
 set cursorline             " Find the current line quickly.
 set ruler                  " Show the line and column number of the cursor.
 
+set matchpairs+=<:>        " Characters that form pairs.
+
 map <F3> :NERDTreeToggle<CR>
