@@ -59,6 +59,7 @@ set showmode               " Show current mode in command-line.
 
 set incsearch              " Highlight while searching with / or ?.
 set hlsearch               " Keep matches highlighted.
+set ignorecase             " Ignore case in search patterns.
 
 set cursorline             " Find the current line quickly.
 set ruler                  " Show the line and column number of the cursor.
