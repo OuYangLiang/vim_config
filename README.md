@@ -14,3 +14,5 @@ https://github.com/VundleVim/Vundle.vim
 ### 文档
 
 * https://github.com/wsdjeg/vim-galore-zh_cn
+
+:let i = 0 | g/\$\$/s//\=i/| let i=i+1  
